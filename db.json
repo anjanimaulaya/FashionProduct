@@ -1,0 +1,76 @@
+{
+    "product": [
+        {
+            "id" : 1,
+            "brand" : "Berrybenka",
+            "desc 1" : "Size M",
+            "desc 2" : "Material cotton",
+            "name" : "Berrybenka top adinda 123",
+            "price" : 399000,
+            "sku" : "AB-001",
+            "type" : "blouses",
+            "category" : {
+                "id" : 2,
+                "name" : "women"
+            }
+        },
+        {
+            "id" : 2,
+            "brand" : "Levi's",
+            "desc 1" : "Size L",
+            "desc 2" : "Material jeans",
+            "name" : "Levi's jacket jeans",
+            "price" : 799000,
+            "sku" : "AB-002",
+            "type" : "jacket",
+            "category" : {
+                "id" : 1,
+                "name" : "men"
+            }
+        },
+        {
+            "id" : 3,
+            "brand" : "Cardinal",
+            "desc 1" : "Size L",
+            "desc 2" : "Casual look",
+            "name" : "Cardinal trousers 234",
+            "price" : 799000,
+            "sku" : "AB-003",
+            "type" : "trousers",
+            "category" : {
+                "id" : 1,
+                "name" : "men"
+            }
+        },
+        {
+            "id" : 4,
+            "brand" : "Cottonink",
+            "desc 1" : "Size L",
+            "desc 2" : "Formal look",
+            "name" : "Cotton ink dresses gown",
+            "price" : 699000,
+            "sku" : "AB-004",
+            "type" : "dresses",
+            "category" : {
+                "id" : 2,
+                "name" : "women"
+            }
+        },
+        {
+            "id" : 5,
+            "brand" : "3 seconds",
+            "desc 1" : "Size S",
+            "desc 2" : "Material cotton",
+            "name" : "3 seconds shirt",
+            "price" : 199000,
+            "sku" : "AB-005",
+            "type" : "shirts",
+            "category" : {
+                "id" : 1,
+                "name" : "men"
+            }
+        }
+        
+    ]
+
+}
